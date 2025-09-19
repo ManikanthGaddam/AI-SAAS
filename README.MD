@@ -88,26 +88,6 @@ Frontend & Backend deployed seamlessly on Vercel
 
 Ensure environment variables are configured inside your Vercel dashboard
 
-📂 Project Structure
-ai-saas-platform/
-│── client/            # React frontend
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── utils/
-│   │   └── App.jsx
-│
-│── server/            # Express backend
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   └── server.js
-│
-│── prisma/            # Prisma schema for PostgreSQL (if using Prisma ORM)
-│── .env               # Environment variables
-│── package.json
-│── README.md
-
 🚀 Deployment on Vercel
 
 Push your repository to GitHub
